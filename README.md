@@ -7,6 +7,7 @@ AIRMARK is more than just a platform; it's a transformative force for global con
 In this repository, you'll discover the codebase that drives AIRMARK's innovative features, including real-time language recognition, immersive VR experiences, and more. Join us on this journey of innovation and purpose as we continue to shape a brighter, more connected world.
 
 Explore, contribute, and be part of the AIRMARK revolution!
+
 # Discover the Vision
 Learn about the core vision and mission behind AIRMARK – to empower individuals, foster global unity, and promote sustainability through innovative technology.
 #Features
